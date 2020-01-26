@@ -1,7 +1,7 @@
-# Assignment *number, e.g 1*
+# Assignment 2
 
-- name: *your name*
-- student ID: *your student ID*
+- name: Alexander Cooper
+- student ID: 20629774
 
 ## Dependencies
 
