@@ -8,6 +8,7 @@
 - json
 - numpy
 - PyTorch
+- Matplotlib
 
 ## Running `main.py`
 
